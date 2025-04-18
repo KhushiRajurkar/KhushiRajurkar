@@ -18,7 +18,7 @@ while(alive) {
 
 🤓 Intuition-first, logic-aligned — my brain likes clean architecture and weird ideas
 
-🐞 I don’t just fix bugs. I tame them and make them write documentation.
+🪄 Logic + Creativity make each other whole
 
 👩🏻‍🏭 Currently working on deep learning, exoplanets, and multiple secret side quests
 
