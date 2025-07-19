@@ -16,7 +16,7 @@ while(alive) {
 
 🌌 Fascinated by space, aliens, and science-fiction
 
-🤓 Intuition-first, logic-aligned — my brain likes clean architecture and weird ideas
+🤓 Intuition-first, logic-aligned; my brain likes clean architecture and weird ideas
 
 🪄 Logic + Creativity make each other whole
 
