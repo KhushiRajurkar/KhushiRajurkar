@@ -20,7 +20,7 @@ while(alive) {
 
 🪄 Logic + Creativity make each other whole
 
-👩🏻‍🏭 Currently working on RAGs, LLMs, and multiple secret side quests
+👩🏻‍🏭 Currently job hunting 
 
 👩🏻‍💻 Tech Stack
 ---
